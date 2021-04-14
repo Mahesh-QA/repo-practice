@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>News Page Html</title>
+<title>Delete Text file</title>
 </head>
 <body>
 
+
+<h1>Delete File</h1>
 <h2>Update code branch</h2>
-<h1>This is a Heading</h1>
-<p>This is a News Page.</p>
+Modified
 
 </body>
 </html>
